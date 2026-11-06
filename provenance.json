@@ -1,0 +1,65 @@
+[
+  {
+    "file": "warehouse-agents/prompts/main_agent.md",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "dde5aff24fe3018c41fee5693bfe9cb448351915d28077c1634c05b5bd9302c9",
+    "published_sha256": "311b341a115974f13b023cdba7b9f2a9d7e14bc3cac33569ea03ca4331a600d9",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "warehouse-agents/prompts/pallet_arm_agent.md",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "d8fd8349340a6b6c3f95eef76d3924d990d7d164d13bd9318668580f20542a1c",
+    "published_sha256": "71de4fedad7d8693d2f26ec12abc94b75d61e619eca0ba5dad60cd6039faae5e",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "warehouse-agents/prompts/shuttle_agent.md",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "0ea073822814c6fe936381d29e58d7c98107d738ac45a22713d96a6e33aa14e8",
+    "published_sha256": "ad1e16c1589f9ec6097b488bc6f54dc846d8a25189a7aecadc6b2e5940635b11",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "warehouse-agents/prompts/transporter_agent.md",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "c92d989bdf5847cfb9da5dd2ec76c929bafd441fac47a4bef63bb7ceb8d3c844",
+    "published_sha256": "73a8ee1f3d457f414faddca629e60d3f0c6398ffc88dc0e601b3ed4217157039",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "warehouse-agents/code/observation.py",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "d0d05e325ea25b9f35e1dcde9edfefd8ff2fcdfb7c7262794e9d7dd084ce622e",
+    "published_sha256": "0e7ce24c26e370d9bf311f83c19cc424eb821a89357566878ff78520094b9ff8",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "warehouse-agents/code/task_adapter.py",
+    "source_project": "lpb_mas_v7",
+    "source_sha256": "4233da87c835ab7c6eb21eaff373bd06f469c05aac8c270a7d2cb7af2d987895",
+    "published_sha256": "52adef3da4069a785e676367af15915f36ec7cfb35ab17a57c352a253a4a649e",
+    "adaptation": "unchanged source text"
+  },
+  {
+    "file": "drone-detection/code/prepare_dataset.py",
+    "source_project": "drone_project",
+    "source_sha256": "c33d6d9fecccdec98879c794f7ad4ead4d2b982376d9b4002e395b396756f6ce",
+    "published_sha256": "3443ddc83f71c46375098e484226c1b663ca06ab83200a1fb6ca1ac7b4caa0a1",
+    "adaptation": "local machine paths generalized"
+  },
+  {
+    "file": "drone-detection/code/run_yolo11_series.py",
+    "source_project": "drone_project",
+    "source_sha256": "5293cbaaf332f4514b1f2d005eb37f3428debad16ab18685c3e454d3346eb509",
+    "published_sha256": "5c6c109ded377a448ac192c853dd5c2c817cc4d51a973732cf87a36b35d1782d",
+    "adaptation": "local machine paths generalized"
+  },
+  {
+    "file": "drone-detection/code/run_sahi_eval.py",
+    "source_project": "drone_project",
+    "source_sha256": "1f3ea0f7fe3b326e0f95b044e778935d2bb97219e94b88e8e56853eab259328c",
+    "published_sha256": "b5a731e0d076aa5a4dd5262432bade2c49c37aed1723939a3f527577a6124021",
+    "adaptation": "local machine paths generalized"
+  }
+]
